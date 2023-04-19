@@ -22,7 +22,7 @@ import str_common as strc
 def selfdoc():
     print(
         ''' 
-        === Any function with recursive call on Python ========================  
+        === Any tests threads & process on Python ==============================  
                
         q = Queue()      #--- Очередь для процессов
 
